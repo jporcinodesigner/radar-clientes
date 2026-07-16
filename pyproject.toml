@@ -1,3 +1,2 @@
-
 [tool.vercel]
 entrypoint = "api/cron.py"
